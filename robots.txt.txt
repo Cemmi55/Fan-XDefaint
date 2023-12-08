@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /assets/images/
 
 sitemap: https://cemmi55.github.io/XDefaint/sitemap.xml
